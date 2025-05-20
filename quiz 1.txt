@@ -1,0 +1,20 @@
+Jaki jest wynik 2 + 2?,3,4,5,2,2,zdj1.png
+Stolica Polski to:,Kraków,Warszawa,Poznań,Gdańsk,2,zdj2.jpg
+Java to:,Herbata,Język programowania,Gra,2,zdj.jpg
+W którym roku Polska wstąpiła do UE?,2000,2004,2007,2010,2,zdj.jpg
+Ile boków ma ośmiokąt?,6,7,8,9,3,zdj.jpg
+Który ocean jest największy?,Atlantycki,Arktyczny,Indyjski,Spokojny,4,zdj.jpg
+Kto napisał "Pan Tadeusz"?,Słowacki,Mickiewicz,Prus,Rej,2,zdj.jpg
+Ile wynosi pierwiastek z 16?,2,4,6,8,2,zdj.jpg
+Który z tych krajów nie należy do UE?,Polska,Hiszpania,Norwegia,Niemcy,3,zdj.jpg
+Co oznacza skrót RAM?,Read Access Memory,Random Access Memory,Run Active Module,Ready At Main,2,zdj.jpg
+Który z tych wynalazków był pierwszy?,Samochód,Telefon,Internet,Samolot,2,zdj.jpg
+Jakiego koloru jest chlorofil?,Czerwony,Brązowy,Niebieski,Zielony,4,zdj.jpg
+Ile godzin ma doba?,12,24,48,60,2,zdj.jpg
+Kto jest twórcą teorii względności?,Newton,Einstein,Hawking,Galileusz,2,zdj.jpg
+Ile nog ma pies?,1,2,4,3,zdj.jpg
+Ile lat ma Pan Posiła?,1,3,5,2,7,2,zdj.jpg
+Co było pierwsze?,Jajko,Kura,1,zdj.jpg
+Co dostanie Pan Kubiak na koniec roku?,0,1,2,zdj.jpg
+Dlaczego Pan Zych jest Asocjalny?,Pytanie jest tedencyjne,Bo taki jest,1,zdj.jpg
+Ile jest 4! ?,2,24,120,2,zdj.jpg
